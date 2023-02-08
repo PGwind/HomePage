@@ -1,42 +1,42 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
-		"description": "Author:SimonMa,Category:Personal Blog",
+		"title": "Echo's 个人主页",
+		"description": "Author:Echo,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
-		"subtitle": "Front back left right end engineer",
+		"title": "Echo",
+		"subtitle": "Life is a coding,I will debug it",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"name": "Echo",
+		"signature": "Code & Life & Fancy",
 		"avatar": {
-			"link": "assets/avatar.jpg",
+			"link": "https://yy.liveout.cn/photo/photo2.jpg",
 			"height": "100",
 			"width": "100"
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://www.liveout.cn/",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "https://www.liveout.cn/about/",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "https://www.liveout.cn/message/",
 				"icon": "email",
-				"text": "Email"
+				"text": "Contact"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/PGwind",
 				"icon": "github",
 				"text": "Github"
 			}
